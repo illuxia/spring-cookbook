@@ -1,0 +1,33 @@
+.no-display {
+    display: none;
+}
+
+#recipe-list {
+	margin-top: 5rem;
+}
+
+.recipe-item {
+	padding: 1rem;
+	margin: 1rem;
+	border: 1px solid black;
+}
+
+#options-filter {
+	margin-top: 5rem;
+}
+
+.inline-div {
+    display: inline-block;
+}
+
+.container {
+	margin: 0;
+}
+
+.update-title {
+	width: 100%;
+}
+
+.update-description {
+	width: 100%;
+}
